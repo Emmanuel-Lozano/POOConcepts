@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/POOConcept.Backend/">
+    <Project Path="POOConcepts.Backend/POOConcepts.Backend.csproj" Id="63e5e22f-8e44-4b26-943d-515d1d6749d9" />
+  </Folder>
+  <Project Path="OPPConcepts.Frontend/OPPConcepts.Frontend.csproj" Id="0809b95e-4922-4170-bda4-71aec67270e5" />
+</Solution>
